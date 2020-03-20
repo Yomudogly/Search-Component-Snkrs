@@ -1,0 +1,18 @@
+.App {
+  margin-left: 300px;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+}
+
+.Box {
+  justify-self: center;
+  align-self: center;
+  width: 300px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: red;
+  margin: 20px;
+}
